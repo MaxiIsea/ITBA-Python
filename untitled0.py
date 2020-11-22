@@ -1,0 +1,7 @@
+print("La aplicación debe recibir del usuario el nombre del país deseado y permitir graficar casos detectados y fallecimientos totales para ese país en función del tiempo.")
+print()
+print("El usuario debe poder ingresar 2 países y se permite graficar para dichos países la cantidad de casos y fallecimientos en dos gráficos con labels. El usuario debe poder ingresar el intervalo de tiempo a graficar. Calcular las intersecciónes entre gráficos si las hubiera y marcarlas con un punto de algún tipo.")
+print()
+print("El usuario debe poder ingresar n países y se permite graficar para dichos países la cantidad de casos en una escala logaritmica. El programa debe pedirle al usuario el intervalo de tiempo deseado.")
+print()
+print("Gráficar sobre la misma imagen la cantidad de casos en una escala logaritmica de Argentina y todos sus países limítrofes (Chile, Bolivia, Paraguay, Brasil y Uruguay) durante los meses de invierno (21 de junio a 21 de septiembre). Debe quedar claro la curva que corresponde a cada país.")
