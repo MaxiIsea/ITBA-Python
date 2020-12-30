@@ -1,0 +1,20 @@
+Ayuda de la aplicacion
+
+Opción 1:
+La aplicación recibe del usuario el nombre del país deseado permitiendo graficar los casos detectados y fallecimientos totales para dicho país en función del tiempo.
+
+Opción 2:
+La aplicación recibe del usuario 2 países permitiendo graficar y comparar la cantidad de casos y fallecimientos totales para dichos paises.
+Opcionalmente, el usuario podrá ingresar el intervalo de tiempo a graficar si lo desea.
+Se marcarán las intersecciones de los graficos con un punto.
+
+Opción 3:
+La aplicación recibe del usuario la cantidad deseada de países permitiendo graficar la cantidad de casos en una escala logaritmica.
+El programa solicitará al usuario el intervalo de tiempo a informar.
+
+Opción 4:
+La aplicacion graficará las cantidad de casos en Argentina y todos sus países limítrofes (Chile, Bolivia, Paraguay, Brasil y Uruguay).
+Se graficará el periodo comprendido entre las fechas 21/06/2020 y 21/09/2020 (Temporada de invierno).
+Se graficará cada pais con un color diferente de modo que los datos puedan interpretarse con mayor facilidad.
+
+Nota adicional: Todas las opciones de la aplicación permitirán al usuario guardar una imagen del grafico generado en formato PNG. Se solicitará al usuario el nombre del archivo en cuestión.
